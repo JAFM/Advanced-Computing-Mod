@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AC",
+  "name": "Advanced Computing",
+  "description": "A mod for minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bennyboo19, bman10101010, and minicooperracer1"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
